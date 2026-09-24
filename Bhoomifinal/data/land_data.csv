@@ -1,0 +1,16 @@
+state,region,latitude,longitude,agricultural_pct,forest_pct,urban_pct,wasteland_pct,water_pct,risk_score,land_disputes,total_parcels
+Rajasthan,North,27.02,74.22,48,8,10,28,6,72,412,185000
+Madhya Pradesh,Central,23.47,77.94,52,25,8,10,5,58,298,210000
+Maharashtra,West,19.75,75.71,50,17,15,10,8,54,356,265000
+Karnataka,South,15.32,75.71,54,20,14,7,5,46,231,198000
+Uttar Pradesh,North,26.85,80.91,58,6,18,10,8,81,520,340000
+Gujarat,West,22.26,71.19,49,9,17,18,7,63,289,175000
+Punjab,North,31.15,75.34,66,3,17,6,8,39,142,120000
+Bihar,East,25.09,85.31,60,7,16,9,8,74,398,255000
+West Bengal,East,22.99,87.86,55,12,19,6,8,49,267,220000
+Tamil Nadu,South,11.13,78.66,49,17,20,7,7,44,198,205000
+Kerala,South,10.85,76.27,42,29,17,4,8,31,86,95000
+Odisha,East,20.95,85.10,44,32,10,10,4,52,201,150000
+Telangana,South,18.11,79.02,51,16,15,12,6,48,176,140000
+Assam,East,26.20,92.94,42,36,8,9,5,45,132,110000
+Haryana,North,29.06,76.09,63,4,20,7,6,42,154,105000
