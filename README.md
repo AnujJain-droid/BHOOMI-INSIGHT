@@ -28,8 +28,8 @@ You can also click Use next to any row on the login screen to auto-fill the fiel
 
 Project Structure
 bhumi-insight/
-├── app.py               # Entry point — login screen, sidebar nav, routing
-├── auth.py              # Login / signup / session / role gating
+├── app.py\n               # Entry point — login screen, sidebar nav, routing
+├── auth.py\n              # Login / signup / session / role gating
 ├── db.py                # SQLite schema, seeding, queries
 ├── style.py             # Navy/green CSS theme injection
 ├── requirements.txt
